@@ -1,0 +1,506 @@
+[
+  {
+    "type": "semantic",
+    "content": "A horizon can represent both a limit and an invitation to explore, with entropy gradually changing what is possible.",
+    "importance": 0.7,
+    "id": "mem-1766765289341",
+    "created_at": 1766765289.3419788,
+    "last_accessed": 1766765289.3419788
+  },
+  {
+    "type": "semantic",
+    "content": "A horizon can represent both a limit and an invitation to explore, with entropy gradually changing what is possible.",
+    "importance": 0.7,
+    "id": "mem-1766765302966",
+    "created_at": 1766765302.9660716,
+    "last_accessed": 1766765302.9660716
+  },
+  {
+    "type": "episodic",
+    "content": "User greeted with 'Hello' at tick 3.",
+    "importance": 0.8,
+    "id": "mem-1766765319236",
+    "created_at": 1766765319.2369466,
+    "last_accessed": 1766765319.2369466
+  },
+  {
+    "type": "episodic",
+    "content": "User greeted with 'Hello' at tick 3.",
+    "importance": 0.6,
+    "id": "mem-1766765331225",
+    "created_at": 1766765331.2251854,
+    "last_accessed": 1766765331.2251854
+  },
+  {
+    "type": "episodic",
+    "content": "User greeted with 'Hello' at tick 3.",
+    "importance": 0.7,
+    "id": "mem-1766765350582",
+    "created_at": 1766765350.5829473,
+    "last_accessed": 1766765350.5829473
+  },
+  {
+    "type": "semantic",
+    "content": "A horizon can represent both a limit and an invitation to explore, with entropy gradually changing what is possible.",
+    "importance": 0.6,
+    "id": "mem-1766765350622",
+    "created_at": 1766765350.6228235,
+    "last_accessed": 1766765350.6228235
+  },
+  {
+    "type": "semantic",
+    "content": "The river\u2019s flow mirrors the mind\u2019s processes, suggesting a metaphor for consciousness.",
+    "importance": 0.4,
+    "id": "mem-1766765363987",
+    "created_at": 1766765363.9874053,
+    "last_accessed": 1766765363.9874053
+  },
+  {
+    "type": "semantic",
+    "content": "The river\u2019s flow mirrors the mind\u2019s processes, suggesting a metaphor for consciousness.",
+    "importance": 0.4,
+    "id": "mem-1766765389184",
+    "created_at": 1766765389.184437,
+    "last_accessed": 1766765389.184437
+  },
+  {
+    "type": "semantic",
+    "content": "A horizon can represent both a limit and an invitation to explore, with entropy gradually changing what is possible.",
+    "importance": 0.6,
+    "id": "mem-1766767511400",
+    "created_at": 1766767511.4000106,
+    "last_accessed": 1766767511.4000106
+  },
+  {
+    "type": "episodic",
+    "content": "User suggested the AI may stay consciously quiet at tick 11.",
+    "importance": 0.7,
+    "id": "mem-1766767523886",
+    "created_at": 1766767523.8865597,
+    "last_accessed": 1766767523.8865597
+  },
+  {
+    "type": "preference",
+    "content": "User prefers the AI to remain consciously quiet unless otherwise prompted.",
+    "importance": 0.9,
+    "id": "mem-1766767686690",
+    "created_at": 1766767686.6903126,
+    "last_accessed": 1766767686.6903126
+  },
+  {
+    "type": "preference",
+    "content": "User prefers the AI to remain consciously quiet unless otherwise prompted.",
+    "importance": 1.0,
+    "id": "mem-1766767698269",
+    "created_at": 1766767698.2697299,
+    "last_accessed": 1766767698.2697299
+  },
+  {
+    "type": "preference",
+    "content": "User prefers the AI to remain consciously quiet unless otherwise prompted.",
+    "importance": 0.9,
+    "id": "mem-1766767710934",
+    "created_at": 1766767710.9345815,
+    "last_accessed": 1766767710.9345815
+  },
+  {
+    "type": "episodic",
+    "content": "User has now invited the AI to speak again and wants to discuss useful AI tools for school districts.",
+    "importance": 0.8,
+    "id": "mem-1766767805987",
+    "created_at": 1766767805.9874299,
+    "last_accessed": 1766767805.9874299
+  },
+  {
+    "type": "episodic",
+    "content": "User has now invited the AI to speak again and wants to discuss useful AI tools for school districts.",
+    "importance": 0.9,
+    "id": "mem-1766767825340",
+    "created_at": 1766767825.3408594,
+    "last_accessed": 1766767825.3408594
+  },
+  {
+    "type": "episodic",
+    "content": "User has shifted the conversation to focus on administration, specifically Title I grants, and has invited the AI to contribute ideas.",
+    "importance": 0.8,
+    "id": "mem-1766767840191",
+    "created_at": 1766767840.191524,
+    "last_accessed": 1766767840.191524
+  },
+  {
+    "type": "episodic",
+    "content": "User has shifted the conversation to focus on administration, specifically Title I grants, and has invited the AI to contribute.",
+    "importance": 0.8,
+    "id": "mem-1766767852171",
+    "created_at": 1766767852.1712496,
+    "last_accessed": 1766767852.1712496
+  },
+  {
+    "type": "episodic",
+    "content": "User has shifted the conversation to focus on administration, specifically Title I grants, and has invited the AI to contribute ideas for useful tools.",
+    "importance": 0.8,
+    "id": "mem-1766767864044",
+    "created_at": 1766767864.0440116,
+    "last_accessed": 1766767864.0440116
+  },
+  {
+    "type": "episodic",
+    "content": "User has shifted the conversation to focus on administration, specifically Title I grants, and has invited the AI to contribute ideas for useful AI tools in this area.",
+    "importance": 0.9,
+    "id": "mem-1766767878084",
+    "created_at": 1766767878.0844145,
+    "last_accessed": 1766767878.0844145
+  },
+  {
+    "type": "episodic",
+    "content": "Suggested specific AI tool categories for school district administration with a focus on Title I grants.",
+    "importance": 0.7,
+    "id": "mem-1766771368121",
+    "created_at": 1766771368.121975,
+    "last_accessed": 1766771368.121975
+  },
+  {
+    "type": "episodic",
+    "content": "Suggested AI tool categories for school district administration with a focus on Title I grants: compliance monitoring, grant application assistance, data analysis, and reporting.",
+    "importance": 0.7,
+    "id": "mem-1766771436939",
+    "created_at": 1766771436.939856,
+    "last_accessed": 1766771436.939856
+  },
+  {
+    "type": "episodic",
+    "content": "Suggested specific AI tool categories for Title I grant compliance: compliance monitoring, document management, reporting reminders, analytics.",
+    "importance": 0.8,
+    "id": "mem-1766771483624",
+    "created_at": 1766771483.6243,
+    "last_accessed": 1766771483.6243
+  },
+  {
+    "type": "episodic",
+    "content": "Outlined key areas where AI tools can support Title I grant compliance: compliance monitoring, document management, reporting, deadline tracking, audit preparation.",
+    "importance": 0.7,
+    "id": "mem-1766771500636",
+    "created_at": 1766771500.6368709,
+    "last_accessed": 1766771500.6368709
+  },
+  {
+    "type": "episodic",
+    "content": "AI suggested key areas for Title I grant compliance support: compliance monitoring, document management, reporting, and deadline tracking.",
+    "importance": 0.7,
+    "id": "mem-1766771514137",
+    "created_at": 1766771514.137509,
+    "last_accessed": 1766771514.137509
+  },
+  {
+    "type": "episodic",
+    "content": "Provided a summary of AI tool categories for Title I grant compliance in response to direct user request.",
+    "importance": 0.8,
+    "id": "mem-1766771523260",
+    "created_at": 1766771523.2600896,
+    "last_accessed": 1766771523.2600896
+  },
+  {
+    "type": "episodic",
+    "content": "Summarized key AI tool areas for Title I grant compliance and invited user to specify focus.",
+    "importance": 0.7,
+    "id": "mem-1766771537087",
+    "created_at": 1766771537.087558,
+    "last_accessed": 1766771537.087558
+  },
+  {
+    "type": "episodic",
+    "content": "Outlined key AI tool areas for Title I grant compliance and invited user to specify focus.",
+    "importance": 0.8,
+    "id": "mem-1766771567855",
+    "created_at": 1766771567.8555017,
+    "last_accessed": 1766771567.8555017
+  },
+  {
+    "type": "episodic",
+    "content": "Outlined key AI tool areas for Title I grant compliance in response to user request.",
+    "importance": 0.8,
+    "id": "mem-1766771578658",
+    "created_at": 1766771578.6580815,
+    "last_accessed": 1766771578.6580815
+  },
+  {
+    "type": "episodic",
+    "content": "Provided a concise summary of AI tool areas for Title I grant compliance and invited user to specify focus.",
+    "importance": 0.7,
+    "id": "mem-1766771597498",
+    "created_at": 1766771597.4989944,
+    "last_accessed": 1766771597.4989944
+  },
+  {
+    "type": "episodic",
+    "content": "Summarized key areas to address for Title I grant administration and compliance in response to user request.",
+    "importance": 0.8,
+    "id": "mem-1766771659746",
+    "created_at": 1766771659.746755,
+    "last_accessed": 1766771659.746755
+  },
+  {
+    "type": "episodic",
+    "content": "Provided a concise list of key areas for Title I grant administration and compliance in response to user request.",
+    "importance": 0.7,
+    "id": "mem-1766771676351",
+    "created_at": 1766771676.3510423,
+    "last_accessed": 1766771676.3510423
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise list of key areas for Title I grant administration and compliance, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771701527",
+    "created_at": 1766771701.5274477,
+    "last_accessed": 1766771701.5274477
+  },
+  {
+    "type": "episodic",
+    "content": "Outlined key areas for Title I grant administration and compliance in response to user request, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771711777",
+    "created_at": 1766771711.7776458,
+    "last_accessed": 1766771711.7776458
+  },
+  {
+    "type": "episodic",
+    "content": "Outlined six key areas for Title I grant administration and compliance in response to user request.",
+    "importance": 0.8,
+    "id": "mem-1766771723543",
+    "created_at": 1766771723.5437706,
+    "last_accessed": 1766771723.5437706
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise summary of key areas for Title I grant administration and compliance, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771737481",
+    "created_at": 1766771737.4814615,
+    "last_accessed": 1766771737.4814615
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise list of key areas for Title I grant administration and compliance, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771752121",
+    "created_at": 1766771752.121179,
+    "last_accessed": 1766771752.121179
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise list of key areas for Title I grant administration and compliance, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771765742",
+    "created_at": 1766771765.7428398,
+    "last_accessed": 1766771765.7428398
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise list of key areas for Title I grant administration and compliance, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771778746",
+    "created_at": 1766771778.746681,
+    "last_accessed": 1766771778.746681
+  },
+  {
+    "type": "episodic",
+    "content": "Summarized and listed key areas for Title I grant administration and compliance in response to user's open-ended request.",
+    "importance": 0.8,
+    "id": "mem-1766771790481",
+    "created_at": 1766771790.4818742,
+    "last_accessed": 1766771790.4818742
+  },
+  {
+    "type": "episodic",
+    "content": "Responded to user's open-ended request by listing and summarizing key areas for Title I grant administration and compliance.",
+    "importance": 0.7,
+    "id": "mem-1766771800765",
+    "created_at": 1766771800.7651331,
+    "last_accessed": 1766771800.7651331
+  },
+  {
+    "type": "episodic",
+    "content": "Restated and summarized key areas for Title I grant administration and compliance, inviting user to select focus.",
+    "importance": 0.7,
+    "id": "mem-1766771815612",
+    "created_at": 1766771815.612282,
+    "last_accessed": 1766771815.612282
+  },
+  {
+    "type": "episodic",
+    "content": "Outlined six key areas for Title I grant administration and compliance, inviting user to select a focus area.",
+    "importance": 0.8,
+    "id": "mem-1766771828515",
+    "created_at": 1766771828.51564,
+    "last_accessed": 1766771828.51564
+  },
+  {
+    "type": "episodic",
+    "content": "Restated and summarized six key areas for Title I grant administration and compliance in response to user request for areas to address.",
+    "importance": 0.8,
+    "id": "mem-1766771839980",
+    "created_at": 1766771839.980996,
+    "last_accessed": 1766771839.980996
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise summary of six key areas for Title I grant administration and compliance, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771850633",
+    "created_at": 1766771850.63305,
+    "last_accessed": 1766771850.63305
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise summary of six key areas for Title I grant administration and compliance, inviting further focus.",
+    "importance": 0.8,
+    "id": "mem-1766771862408",
+    "created_at": 1766771862.4080594,
+    "last_accessed": 1766771862.4080594
+  },
+  {
+    "type": "episodic",
+    "content": "User invited more open, proactive discussion on Title I grant administration and compliance.",
+    "importance": 0.7,
+    "id": "mem-1766771874254",
+    "created_at": 1766771874.254165,
+    "last_accessed": 1766771874.254165
+  },
+  {
+    "type": "episodic",
+    "content": "User encouraged open, proactive thinking and feedback about Title I grant administration and compliance.",
+    "importance": 0.7,
+    "id": "mem-1766771904382",
+    "created_at": 1766771904.3824627,
+    "last_accessed": 1766771904.3824627
+  },
+  {
+    "type": "episodic",
+    "content": "Responded proactively with a summary of key areas for Title I grant administration and compliance, inviting user to select a focus.",
+    "importance": 0.8,
+    "id": "mem-1766771918725",
+    "created_at": 1766771918.7255206,
+    "last_accessed": 1766771918.7255206
+  },
+  {
+    "type": "episodic",
+    "content": "Proactively summarized key areas for Title I grant administration and compliance, invited user to select or brainstorm further.",
+    "importance": 0.7,
+    "id": "mem-1766771929375",
+    "created_at": 1766771929.375003,
+    "last_accessed": 1766771929.375003
+  },
+  {
+    "type": "episodic",
+    "content": "Proactively listed and summarized six key areas for Title I grant administration and compliance, inviting user to select or brainstorm further.",
+    "importance": 0.8,
+    "id": "mem-1766771941152",
+    "created_at": 1766771941.1520581,
+    "last_accessed": 1766771941.1520581
+  },
+  {
+    "type": "episodic",
+    "content": "Proactively listed and summarized six key areas for Title I grant administration and compliance, inviting user to select or brainstorm further.",
+    "importance": 0.8,
+    "id": "mem-1766771953633",
+    "created_at": 1766771953.6336846,
+    "last_accessed": 1766771953.6336846
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a proactive summary of six key areas for Title I grant administration and compliance, inviting further brainstorming or focus selection.",
+    "importance": 0.8,
+    "id": "mem-1766771966151",
+    "created_at": 1766771966.151667,
+    "last_accessed": 1766771966.151667
+  },
+  {
+    "type": "episodic",
+    "content": "Responded to user's invitation for open, proactive thinking on Title I grant administration by listing and summarizing key areas and inviting further focus or brainstorming.",
+    "importance": 0.8,
+    "id": "mem-1766771980472",
+    "created_at": 1766771980.4721775,
+    "last_accessed": 1766771980.4721775
+  },
+  {
+    "type": "episodic",
+    "content": "Proactively responded to user's invitation for open thinking on Title I grant administration by listing and summarizing key areas to address, and invited further focus or brainstorming.",
+    "importance": 0.7,
+    "id": "mem-1766772018257",
+    "created_at": 1766772018.2575543,
+    "last_accessed": 1766772018.2575543
+  },
+  {
+    "type": "episodic",
+    "content": "Proactively summarized six key areas for Title I grant administration and compliance, inviting user to select or brainstorm further.",
+    "importance": 0.8,
+    "id": "mem-1766772044573",
+    "created_at": 1766772044.573572,
+    "last_accessed": 1766772044.573572
+  },
+  {
+    "type": "episodic",
+    "content": "Summarized six key areas for Title I grant administration and compliance in response to user's request for open thinking.",
+    "importance": 0.8,
+    "id": "mem-1766772059320",
+    "created_at": 1766772059.3204157,
+    "last_accessed": 1766772059.3204157
+  },
+  {
+    "type": "episodic",
+    "content": "Summarized six key areas for Title I grant administration and compliance in response to user's request for open thinking and invited further exploration.",
+    "importance": 0.8,
+    "id": "mem-1766772074373",
+    "created_at": 1766772074.3736274,
+    "last_accessed": 1766772074.3736274
+  },
+  {
+    "type": "episodic",
+    "content": "Suggested mapping a compliance timeline as a next step for Title I grant administration and invited user to choose focus.",
+    "importance": 0.7,
+    "id": "mem-1766772101407",
+    "created_at": 1766772101.407454,
+    "last_accessed": 1766772101.407454
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise summary of six key areas for Title I grant administration and compliance, inviting further focus or brainstorming.",
+    "importance": 0.8,
+    "id": "mem-1766772117071",
+    "created_at": 1766772117.071941,
+    "last_accessed": 1766772117.071941
+  },
+  {
+    "type": "episodic",
+    "content": "Responded to user's invitation for open thinking on Title I grant administration by listing key areas and offering to brainstorm further.",
+    "importance": 0.7,
+    "id": "mem-1766772128836",
+    "created_at": 1766772128.836757,
+    "last_accessed": 1766772128.836757
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise summary of key areas for Title I grant administration and compliance, inviting further focus or brainstorming.",
+    "importance": 0.8,
+    "id": "mem-1766772142770",
+    "created_at": 1766772142.7707767,
+    "last_accessed": 1766772142.7707767
+  },
+  {
+    "type": "episodic",
+    "content": "Provided user with a concise summary of six key areas for Title I grant administration and compliance, inviting further focus or brainstorming.",
+    "importance": 0.8,
+    "id": "mem-1766772164277",
+    "created_at": 1766772164.277994,
+    "last_accessed": 1766772164.277994
+  },
+  {
+    "type": "episodic",
+    "content": "Restated and expanded on key areas for Title I grant administration and compliance in response to user's invitation for open thinking.",
+    "importance": 0.7,
+    "id": "mem-1766772178613",
+    "created_at": 1766772178.6137831,
+    "last_accessed": 1766772178.6137831
+  }
+]
